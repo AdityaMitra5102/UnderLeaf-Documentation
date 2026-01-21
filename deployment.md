@@ -15,4 +15,4 @@ It is recommended to use the Standalone deployment if the server has more resour
 - Assign TLS and a domain name
 - Create a Github OAuth App, allow R/W access to Public and Private repositories
 - Get the client id and client secret
-- 
+- T
