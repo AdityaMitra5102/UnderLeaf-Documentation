@@ -43,3 +43,7 @@ It is recommended to use the Standalone deployment if the server has more resour
 ## Managed service deployment
 
 The system can be deployed on various managed services like HF Spaces, Heroku, Render, and more. For managed services, it is recommended to use the Docker based deployment.
+
+
+
+### Made by Crypane (2026)
