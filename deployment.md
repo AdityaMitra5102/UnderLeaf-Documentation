@@ -46,4 +46,4 @@ The system can be deployed on various managed services like HF Spaces, Heroku, R
 
 
 
-### Made by Cryptane (2026)
+### Made by Cryptane (2026) 
