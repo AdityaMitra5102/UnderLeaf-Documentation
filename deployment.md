@@ -1,6 +1,7 @@
 # 🍃 UnderLeaf Deployment guide
 
 UnderLeaf has two modes of deployment:
+
 - Standalone deployment
 - Docker container
 
